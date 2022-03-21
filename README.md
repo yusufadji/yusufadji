@@ -1,4 +1,4 @@
-<img align='right' width='51%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufadji&hide=html,java,jupyter%20notebook,css&layout=compact&card_width=495&title_color=eb1f6a&icon_color=4c99e6&text_color=999999&bg_color=0,27282200,0000000F&hide_border=true">
+<img align='right' width='51%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufadji&hide=html,java,jupyter%20notebook,css&layout=compact&card_width=495&title_color=4c99e6&icon_color=4c99e6&text_color=999999&bg_color=0,27282200,0000000F&hide_border=true">
 
 ## Hey 👋
 
