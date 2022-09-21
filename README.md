@@ -17,5 +17,5 @@
 
 ***
 
-[<img align="left" width="465" alt="🦑" src="/general.svg">](#)
-[<img align="right" width="465" alt="🦑" src="/medias.svg">](#)
+[<img align="left" width="390" alt="🦑" src="/general.svg">](#)
+[<img align="right" width="390" alt="🦑" src="/medias.svg">](#)
