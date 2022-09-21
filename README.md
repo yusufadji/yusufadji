@@ -1,6 +1,4 @@
-## Hey 👋
-
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/frelein_sama.svg?style=social&label=Follow%20me%20on%20Twitter)](https://twitter.com/frelein_sama)
+![Hi 👋, I'm Yusuf Bhaskara Adji](https://raw.githubusercontent.com/yusufadji/yusufadji/main/images/header.webp?raw=true)
 
 - 🔭 I live in Indonesia as a college student.
 - 😎 I am also a [Blogger](https://www.frelein.my.id).
