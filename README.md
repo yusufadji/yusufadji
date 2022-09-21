@@ -7,6 +7,8 @@
 [<img align="left" width="465" alt="🦑" src="/general.svg">](#)
 [<img align="right" width="465" alt="🦑" src="/medias.svg">](#)
 
+***
+
 ## My Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [[UPDATE] Stiker WA Hinatazaka46 Takahashi Mikuni](https://www.frelein.my.id/2022/09/stiker-wa-hinatazaka46-takahashi-mikuni.html)
