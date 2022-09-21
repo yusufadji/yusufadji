@@ -16,6 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Indonesia
+          config_display: column
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_languages_limit: 5
