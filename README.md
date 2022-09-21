@@ -4,8 +4,8 @@
 - 📝 I am also a [Blogger](https://www.frelein.my.id).
 - 📚 Now learning Laravel and Flutter.
 
-[<img align="left" width="465" alt="🦑" src="/general.svg">](#)
-[<img align="right" width="465" alt="🦑" src="/medias.svg">](#)
+[<img align="left" width="480" alt="🦑" src="/general.svg">](#)
+[<img align="right" width="480" alt="🦑" src="/medias.svg">](#)
 
 ***
 
