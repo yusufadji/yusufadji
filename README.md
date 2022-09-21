@@ -4,7 +4,7 @@
 - 📝 I am also a [Blogger](https://www.frelein.my.id).
 - 📚 Now learning Laravel and Flutter.
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+![Metrics](/github-metrics.svg)
 
 ## My Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
