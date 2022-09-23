@@ -46,6 +46,7 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_repositories_visibility: public
           plugin_anilist: yes
           plugin_anilist_user: Frelein
           plugin_anilist_medias: anime
