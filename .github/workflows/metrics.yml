@@ -20,7 +20,7 @@ jobs:
           filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Indonesia
-          config_order: base, languages, habits
+          config_order: base.header, base.activity, base.community, base.repositories, base.metadata, languages, habits
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala, c, c++, python, ejs
           plugin_languages_details: lines, bytes-size, percentage
