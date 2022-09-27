@@ -7,11 +7,11 @@
 
 ## My Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CHOTeN 2022.08.06 Hinatazaka46 Nibu Akari](https://www.frelein.my.id/2022/08/choten-hinatazaka46-nibu-akari.html)
 - [[UPDATE] Stiker WA Hinatazaka46 Takahashi Mikuni](https://www.frelein.my.id/2022/09/stiker-wa-hinatazaka46-takahashi-mikuni.html)
 - [[UPDATE] Stiker WA Hinatazaka46 Yamaguchi Haruyo](https://www.frelein.my.id/2022/09/stiker-wa-hinatazaka46-yamaguchi-haruyo.html)
 - [[UPDATE] Stiker WA Hinatazaka46 Kosaka Nao](https://www.frelein.my.id/2022/09/stiker-wa-hinatazaka46-kosaka-nao.html)
 - [[UPDATE] Stiker WA Hinatazaka46 Kato Shiho](https://www.frelein.my.id/2022/07/stiker-wa-hinatazaka46-kato-shiho.html)
-- [[UPDATE] Stiker WA Hinatazaka46 Kawata Hina](https://www.frelein.my.id/2022/09/stiker-wa-hinatazaka46-kawata-hina.html)
 <!-- BLOG-POST-LIST:END -->
 
 
