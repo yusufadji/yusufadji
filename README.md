@@ -9,8 +9,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [ZIP! Kiterune! 2022.05.16 Hinatazaka46 Sasaki Mirei - Subtitle Indonesia](https://www.frelein.my.id/2022/05/zip-kiterune-hinatazaka46-sasaki-mirei.html)
 - [CHOTeN 2022.08.06 Hinatazaka46 Nibu Akari - Subtitle Indonesia](https://www.frelein.my.id/2022/08/choten-hinatazaka46-nibu-akari.html)
-- [[UPDATE] Stiker WA Hinatazaka46 Takahashi Mikuni](https://www.frelein.my.id/2022/09/stiker-wa-hinatazaka46-takahashi-mikuni.html)
-- [[UPDATE] Stiker WA Hinatazaka46 Yamaguchi Haruyo](https://www.frelein.my.id/2022/09/stiker-wa-hinatazaka46-yamaguchi-haruyo.html)
+- [Stiker WA Hinatazaka46 Takahashi Mikuni](https://www.frelein.my.id/2022/09/stiker-wa-hinatazaka46-takahashi-mikuni.html)
+- [Stiker WA Hinatazaka46 Yamaguchi Haruyo](https://www.frelein.my.id/2022/09/stiker-wa-hinatazaka46-yamaguchi-haruyo.html)
 - [Stiker WA Hinatazaka46 Kosaka Nao](https://www.frelein.my.id/2022/09/stiker-wa-hinatazaka46-kosaka-nao.html)
 <!-- BLOG-POST-LIST:END -->
 
