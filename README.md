@@ -7,11 +7,11 @@
 
 ## My Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Stiker WA Hinatazaka46 Kanemura Miku](https://www.frelein.my.id/2022/09/stiker-wa-hinatazaka46-kanemura-miku.html)
+- [Stiker WA Hinatazaka46 Sasaki Mirei](https://www.frelein.my.id/2022/07/stiker-wa-hinatazaka46-sasaki-mirei.html)
 - [Stiker WA Hinatazaka46 Nibu Akari](https://www.frelein.my.id/2022/04/stiker-wa-hinatazaka46-nibu-akari.html)
 - [Stiker WA Hinatazaka46 Matsuda Konoka](https://www.frelein.my.id/2022/07/stiker-wa-hinatazaka46-matsuda-konoka.html)
 - [Stiker WA Hinatazaka46 Hamagishi Hiyori](https://www.frelein.my.id/2022/07/stiker-wa-hinatazaka46-hamagishi-hiyori.html)
-- [Stiker WA Hinatazaka46 Saito Kyoko](https://www.frelein.my.id/2022/07/stiker-wa-hinatazaka46-saito-kyoko.html)
-- [ZIP! Kiterune! 2022.10.19 Hinatazaka46 Sasaki Mirei - Subtitle Indonesia](https://www.frelein.my.id/2022/10/zip-kiterune-hinatazaka46-sasaki-mirei.html)
 <!-- BLOG-POST-LIST:END -->
 
 
