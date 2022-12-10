@@ -7,11 +7,11 @@
 
 ## My Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Stiker WA Hinatazaka46 Kawata Hina](https://www.frelein.my.id/2022/09/stiker-wa-hinatazaka46-kawata-hina.html)
+- [Stiker WA Hinatazaka46 Kato Shiho](https://www.frelein.my.id/2022/07/stiker-wa-hinatazaka46-kato-shiho.html)
+- [Stiker WA Hinatazaka46 Yamaguchi Haruyo](https://www.frelein.my.id/2022/09/stiker-wa-hinatazaka46-yamaguchi-haruyo.html)
+- [Stiker WA Hinatazaka46 Takahashi Mikuni](https://www.frelein.my.id/2022/09/stiker-wa-hinatazaka46-takahashi-mikuni.html)
 - [Stiker WA Hinatazaka46 Kamimura Hinano](https://www.frelein.my.id/2022/03/stiker-wa-hinatazaka46-kamimura-hinano.html)
-- [Stiker WA Hinatazaka46 Tomita Suzuka](https://www.frelein.my.id/2022/09/stiker-wa-hinatazaka46-tomita-suzuka.html)
-- [Stiker WA Hinatazaka46 Takamoto Ayaka](https://www.frelein.my.id/2022/09/stiker-wa-hinatazaka46-takamoto-ayaka.html)
-- [Stiker WA Hinatazaka46 Kanemura Miku](https://www.frelein.my.id/2022/09/stiker-wa-hinatazaka46-kanemura-miku.html)
-- [Stiker WA Hinatazaka46 Sasaki Mirei](https://www.frelein.my.id/2022/07/stiker-wa-hinatazaka46-sasaki-mirei.html)
 <!-- BLOG-POST-LIST:END -->
 
 
