@@ -7,12 +7,11 @@
 ## My Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [ZIP! Kiterune! 2022.05.16 Hinatazaka46 Sasaki Mirei - Subtitle Indonesia](https://www.frelein.my.id/2022/05/zip-kiterune-hinatazaka46-sasaki-mirei.html)
-- [CHOTeN 2022.08.06 Hinatazaka46 Nibu Akari - Subtitle Indonesia](https://www.frelein.my.id/2022/08/choten-hinatazaka46-nibu-akari.html)
-- [Stiker WA Hinatazaka46 Takahashi Mikuni](https://www.frelein.my.id/2022/09/stiker-wa-hinatazaka46-takahashi-mikuni.html)
+- [Hinakoi CG [Choco LOVE Match] Event - Subtitle Indonesia](https://www.frelein.my.id/2023/02/hinakoi-cg-choco-love-match-event.html)
+- [Stiker WA Hinatazaka46 Kawata Hina](https://www.frelein.my.id/2022/09/stiker-wa-hinatazaka46-kawata-hina.html)
+- [Stiker WA Hinatazaka46 Kato Shiho](https://www.frelein.my.id/2022/07/stiker-wa-hinatazaka46-kato-shiho.html)
 - [Stiker WA Hinatazaka46 Yamaguchi Haruyo](https://www.frelein.my.id/2022/09/stiker-wa-hinatazaka46-yamaguchi-haruyo.html)
-- [Stiker WA Hinatazaka46 Kosaka Nao](https://www.frelein.my.id/2022/09/stiker-wa-hinatazaka46-kosaka-nao.html)
+- [Stiker WA Hinatazaka46 Takahashi Mikuni](https://www.frelein.my.id/2022/09/stiker-wa-hinatazaka46-takahashi-mikuni.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
