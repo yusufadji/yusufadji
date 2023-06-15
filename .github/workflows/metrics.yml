@@ -24,7 +24,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala, c, c++, python, ejs
           plugin_languages_details: lines, bytes-size, percentage
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_sections: recently-used
           plugin_languages_indepth: yes
           plugin_languages_limit: 3
           plugin_habits: yes
@@ -39,7 +39,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           config_timezone: Indonesia
-          config_order: topics, anilist, wakatime
+          config_order: topics, wakatime
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
@@ -47,7 +47,7 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_repositories_visibility: public
-          plugin_anilist: yes
+          plugin_anilist: no
           plugin_anilist_user: Frelein
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, watching, characters
