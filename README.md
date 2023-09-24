@@ -13,7 +13,6 @@ I'm Adji. I live in Indonesia, Freshly graduated from college, and I love buildi
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/frelein_sama)
 [![Linked](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yusuf-bhaskara-adji/)
 
-
 ### Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
