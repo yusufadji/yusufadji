@@ -16,4 +16,15 @@ I'm Adji. I live in Indonesia, Freshly graduated from college, and I love buildi
 ### Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+
+```javascript,typescript,kotlin
+Total Time: 4 hrs 1 min
+
+TypeScript   3 hrs 14 mins   ████████████████████░░░░░   80.54 %
+Bash         20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
+TSConfig     9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+JavaScript   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+```
+
 <!--END_SECTION:waka-->
