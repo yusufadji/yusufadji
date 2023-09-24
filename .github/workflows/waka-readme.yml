@@ -14,11 +14,8 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
         WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
-        ### meta
         REPOSITORY: yusufadji/yusufadji
-        ### content
         SHOW_TITLE: false
         SECTION_NAME: waka
         BLOCKS: ░▒▓█
@@ -29,7 +26,6 @@ jobs:
         SHOW_TOTAL: true
         SHOW_MASKED_TIME: false
         STOP_AT_OTHER: true
-        ### commit
         COMMIT_MESSAGE: Updated waka-readme graph with new metrics
         TARGET_BRANCH: master
         TARGET_PATH: README.md
