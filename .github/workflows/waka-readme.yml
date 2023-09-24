@@ -4,7 +4,7 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 07:00 WIB
+    # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
 
 jobs:
@@ -14,22 +14,22 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-        WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
-        REPOSITORY: yusufadji/yusufadji
-        SHOW_TITLE: false
-        SECTION_NAME: waka
-        BLOCKS: ░▒▓█
-        CODE_LANG: javascript,typescript,kotlin
-        TIME_RANGE: last_7_days
-        LANG_COUNT: 5
-        SHOW_TIME: true
-        SHOW_TOTAL: true
-        SHOW_MASKED_TIME: false
-        STOP_AT_OTHER: true
-        COMMIT_MESSAGE: Updated waka-readme graph with new metrics
-        TARGET_BRANCH: master
-        TARGET_PATH: README.md
-        COMMITTER_NAME: GitHubActionBot
-        COMMITTER_EMAIL: action-bot@github.com
-        AUTHOR_NAME: Yusuf Bhaskara Adji
-        AUTHOR_EMAIL: admin@frelein.my.id
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
+          REPOSITORY: yusufadji/yusufadji
+          SHOW_TITLE: false
+          SECTION_NAME: waka
+          BLOCKS: ░▒▓█
+          CODE_LANG: javascript,typescript,kotlin
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 5
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: true
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
+          TARGET_BRANCH: master
+          TARGET_PATH: README.md
+          COMMITTER_NAME: GitHubActionBot
+          COMMITTER_EMAIL: action-bot@github.com
+          AUTHOR_NAME: Yusuf Bhaskara Adji
+          AUTHOR_EMAIL: admin@frelein.my.id
