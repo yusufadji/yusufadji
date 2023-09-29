@@ -18,13 +18,13 @@ I'm Adji. I live in Indonesia, Freshly graduated from college, and I love buildi
 <!--START_SECTION:waka-->
 
 ```javascript,typescript,kotlin
-Total Time: 14 hrs 5 mins
+Total Time: 15 hrs 12 mins
 
-TypeScript   10 hrs 28 mins  ██████████████████▓░░░░░░   74.24 %
-Markdown     1 hr 49 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
-YAML         53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-TSConfig     18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-JavaScript   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+TypeScript       10 hrs 56 mins  ██████████████████░░░░░░░   71.95 %
+Markdown         1 hr 49 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
+YAML             53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+JavaScript       39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+TSConfig         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 ```
 
 <!--END_SECTION:waka-->
