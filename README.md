@@ -16,11 +16,4 @@ I'm Adji. I live in Indonesia, Freshly graduated from college, and I love buildi
 ### 📊 My experience
 
 <!--START_SECTION:waka-->
-
-```javascript,typescript,kotlin
-Total Time: 0 secs
-
-JavaScript   0 secs          █████████████████████████   100.00 %
-```
-
 <!--END_SECTION:waka-->
