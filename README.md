@@ -18,13 +18,13 @@ I'm Adji. I live in Indonesia, Freshly graduated from college, and I love buildi
 <!--START_SECTION:waka-->
 
 ```javascript,typescript,kotlin
-Total Time: 713 hrs 55 mins
+Total Time: 717 hrs 29 mins
 
-Kotlin                 517 hrs 11 mins ██████████████████░░░░░░░   72.39 %
-JavaScript             84 hrs 41 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
-TypeScript             32 hrs 16 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-Text                   16 hrs 35 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-HTML                   12 hrs 16 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Kotlin                 517 hrs 11 mins ██████████████████░░░░░░░   72.03 %
+JavaScript             84 hrs 49 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
+TypeScript             35 hrs 34 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+Text                   16 hrs 35 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+HTML                   12 hrs 16 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 ```
 
 <!--END_SECTION:waka-->
