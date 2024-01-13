@@ -13,6 +13,9 @@ I live in Indonesia, Freshly graduated from college, and I love building stuff t
 ### 🛠️ Technologies and Tools
 [![Technologies and tools I've used](https://skillicons.dev/icons?i=html,css,js,ts,php,python,kotlin,tailwind,bootstrap,next,express,sequelize,mysql,firebase,vercel,vscode,androidstudio,bash,git,postman,figma,docker,linux&perline=12)](#)
 
+### 🐣 A little more about me
+---
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
