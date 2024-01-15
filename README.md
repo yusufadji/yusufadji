@@ -17,7 +17,7 @@ I live in Indonesia, Freshly graduated from college, and I love building stuff t
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-778%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-778%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -27,7 +27,7 @@ I live in Indonesia, Freshly graduated from college, and I love building stuff t
 
 > 📦 168.2 kB Used in GitHub's Storage 
  > 
-> 🏆 19 Contributions in the Year 2024
+> 🏆 21 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -62,22 +62,22 @@ Sunday                   61 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               16 hrs 12 mins      █████████████████░░░░░░░░   67.54 % 
-TypeScript               3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-JSON                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-Markdown                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+JavaScript               19 hrs 32 mins      █████████████████░░░░░░░░   69.73 % 
+TypeScript               3 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+JSON                     1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Other                    33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 59 mins      █████████████████████████   100.00 % 
+VS Code                  28 hrs 2 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    21 hrs 53 mins      ███████████████████████░░   91.28 % 
-Windows                  2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Linux                    25 hrs 56 mins      ███████████████████████░░   92.53 % 
+Windows                  2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 ```
 
 
- Last Updated on 14/01/2024 01:04:12 UTC
+ Last Updated on 15/01/2024 01:02:03 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
