@@ -17,7 +17,7 @@ I live in Indonesia, Freshly graduated from college, and I love building stuff t
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-834%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-848%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -27,7 +27,7 @@ I live in Indonesia, Freshly graduated from college, and I love building stuff t
 
 > 📦 169.8 kB Used in GitHub's Storage 
  > 
-> 🏆 59 Contributions in the Year 2024
+> 🏆 63 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -62,20 +62,21 @@ Sunday                   61 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               14 hrs 16 mins      █████████████████████░░░░   84.18 % 
-JavaScript               2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+TypeScript               19 hrs 44 mins      █████████████████████░░░░   82.48 % 
+JavaScript               2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Python                   1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 58 mins      █████████████████████████   100.00 % 
+VS Code                  23 hrs 56 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    16 hrs 58 mins      █████████████████████████   100.00 % 
+Linux                    23 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/01/2024 00:55:52 UTC
+ Last Updated on 01/02/2024 00:58:17 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
