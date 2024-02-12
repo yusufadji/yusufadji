@@ -17,7 +17,7 @@ I live in Indonesia, Freshly graduated from college, and I love building stuff t
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-884%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-885%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -27,7 +27,7 @@ I live in Indonesia, Freshly graduated from college, and I love building stuff t
 
 > 📦 168.9 kB Used in GitHub's Storage 
  > 
-> 🏆 75 Contributions in the Year 2024
+> 🏆 79 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -62,22 +62,22 @@ Sunday                   61 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               8 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   37.75 % 
-Kotlin                   6 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   28.72 % 
-Python                   5 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
-JavaScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-CSV                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+TypeScript               8 hrs 51 mins       ████████████░░░░░░░░░░░░░   48.18 % 
+Kotlin                   4 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+Python                   4 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
+JavaScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 55 mins      ██████████████████░░░░░░░   70.78 % 
-Android Studio           6 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   29.22 % 
+VS Code                  14 hrs 7 mins       ███████████████████░░░░░░   76.76 % 
+Android Studio           4 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
 
 💻 Operating System: 
-Linux                    22 hrs 29 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/02/2024 00:59:26 UTC
+ Last Updated on 12/02/2024 00:55:46 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
