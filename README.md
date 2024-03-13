@@ -17,7 +17,7 @@ I live in Indonesia, Freshly graduated from college, and I love building stuff t
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-936%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-937%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -27,7 +27,7 @@ I live in Indonesia, Freshly graduated from college, and I love building stuff t
 
 > 📦 169.1 kB Used in GitHub's Storage 
  > 
-> 🏆 150 Contributions in the Year 2024
+> 🏆 151 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -62,22 +62,22 @@ Sunday                   61 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   5 hrs 36 mins       ██████████████████████░░░   87.03 % 
-Other                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Python                   5 hrs 31 mins       ██████████████████████░░░   88.29 % 
+Other                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 26 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 11 mins       ████████████████░░░░░░░░░   65.22 % 
-Linux                    2 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   34.78 % 
+Windows                  4 hrs 11 mins       █████████████████░░░░░░░░   67.14 % 
+Linux                    2 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   32.86 % 
 ```
 
 
- Last Updated on 12/03/2024 00:54:52 UTC
+ Last Updated on 13/03/2024 00:56:26 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
