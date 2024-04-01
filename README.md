@@ -25,7 +25,7 @@ I live in Indonesia, Freshly graduated from college, and I love building stuff t
 
 **🐱 My GitHub Data** 
 
-> 📦 173.2 kB Used in GitHub's Storage 
+> 📦 173.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -75,7 +75,7 @@ Windows                  34 mins             ███░░░░░░░░�
 ```
 
 
- Last Updated on 31/03/2024 01:01:04 UTC
+ Last Updated on 01/04/2024 01:01:13 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
