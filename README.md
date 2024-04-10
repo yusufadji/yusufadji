@@ -17,9 +17,9 @@ I live in Indonesia, Freshly graduated from college, and I love building stuff t
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-956%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-959%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.1%20thousand%20lines%20of%20code-blue)
 
@@ -60,21 +60,21 @@ Sunday                   61 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               4 hrs 50 mins       ███████████████░░░░░░░░░░   60.35 % 
-YAML                     1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-Bash                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-CSS                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+TypeScript               4 hrs 50 mins       ████████████░░░░░░░░░░░░░   49.68 % 
+Python                   1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+YAML                     1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Bash                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+CSS                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 
 🔥 Editors: 
-VS Code                  8 hrs               █████████████████████████   100.00 % 
+VS Code                  9 hrs 43 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    8 hrs               █████████████████████████   100.00 % 
+Linux                    9 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/04/2024 00:56:39 UTC
+ Last Updated on 10/04/2024 00:56:08 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
