@@ -19,7 +19,7 @@ I live in Indonesia, Freshly graduated from college, and I love building stuff t
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-975%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.1%20thousand%20lines%20of%20code-blue)
 
@@ -27,7 +27,7 @@ I live in Indonesia, Freshly graduated from college, and I love building stuff t
 
 > 📦 177.2 kB Used in GitHub's Storage 
  > 
-> 🏆 199 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -63,7 +63,7 @@ Sunday                   61 commits          ████░░░░░░░�
 
 💬 Programming Languages: 
 TypeScript               10 hrs 40 mins      ████████████████████████░   95.35 % 
-Git Config               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Git Config               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
@@ -76,7 +76,7 @@ Linux                    11 hrs 12 mins      ███████████�
 ```
 
 
- Last Updated on 27/04/2024 00:56:51 UTC
+ Last Updated on 28/04/2024 01:02:01 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
