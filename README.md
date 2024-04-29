@@ -17,7 +17,7 @@ I live in Indonesia, Freshly graduated from college, and I love building stuff t
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-975%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-975%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -26,8 +26,6 @@ I live in Indonesia, Freshly graduated from college, and I love building stuff t
 **🐱 My GitHub Data** 
 
 > 📦 177.2 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -62,21 +60,21 @@ Sunday                   61 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               10 hrs 40 mins      ████████████████████████░   95.35 % 
-Git Config               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+TypeScript               10 hrs 49 mins      ████████████████████████░   95.41 % 
+Git Config               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 12 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 20 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    11 hrs 12 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/04/2024 01:02:01 UTC
+ Last Updated on 29/04/2024 00:58:41 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
