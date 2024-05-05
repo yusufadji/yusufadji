@@ -17,7 +17,7 @@ I live in Indonesia, Freshly graduated from college, and I love building stuff t
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-990%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-992%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -26,8 +26,6 @@ I live in Indonesia, Freshly graduated from college, and I love building stuff t
 **🐱 My GitHub Data** 
 
 > 📦 177.3 kB Used in GitHub's Storage 
- > 
-> 🏆 209 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -62,21 +60,21 @@ Sunday                   61 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               10 hrs 45 mins      ██████████████████░░░░░░░   72.30 % 
-Python                   1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-JSON                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-YAML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-Docker                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+TypeScript               12 hrs 20 mins      ██████████████████░░░░░░░   72.98 % 
+Python                   1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+JSON                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Dart                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+YAML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 52 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 54 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    14 hrs 52 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/05/2024 00:57:25 UTC
+ Last Updated on 05/05/2024 01:01:51 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
