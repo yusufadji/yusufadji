@@ -17,7 +17,7 @@ I live in Indonesia, Freshly graduated from college, and I love building stuff t
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C027%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C032%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
@@ -27,7 +27,7 @@ I live in Indonesia, Freshly graduated from college, and I love building stuff t
 
 > 📦 177.5 kB Used in GitHub's Storage 
  > 
-> 🏆 228 Contributions in the Year 2024
+> 🏆 229 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -62,23 +62,23 @@ Sunday                   61 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               8 hrs 12 mins       ██████████████░░░░░░░░░░░   55.62 % 
-Python                   2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-Kotlin                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+TypeScript               11 hrs 35 mins      ███████████████░░░░░░░░░░   61.54 % 
+Python                   2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Prisma                   1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+JavaScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 34 mins      █████████████████████████   98.81 % 
-Intellijidea             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+VS Code                  18 hrs 39 mins      █████████████████████████   99.06 % 
+Intellijidea             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 💻 Operating System: 
-Linux                    11 hrs 14 mins      ███████████████████░░░░░░   76.16 % 
-Windows                  3 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
+Linux                    15 hrs 19 mins      ████████████████████░░░░░   81.32 % 
+Windows                  3 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
 ```
 
 
- Last Updated on 30/05/2024 01:00:59 UTC
+ Last Updated on 31/05/2024 01:01:23 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
