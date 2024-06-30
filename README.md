@@ -18,7 +18,7 @@ I live in Indonesia, Freshly graduated from college, and I love building stuff t
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C090%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C090%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -27,8 +27,6 @@ I live in Indonesia, Freshly graduated from college, and I love building stuff t
 **🐱 My GitHub Data** 
 
 > 📦 177.5 kB Used in GitHub's Storage 
- > 
-> 🏆 252 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -63,17 +61,20 @@ Sunday                   61 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               50 mins             ████████████████████░░░░░   78.96 % 
+Bash                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Prisma                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/06/2024 01:01:27 UTC
+ Last Updated on 30/06/2024 01:07:57 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
