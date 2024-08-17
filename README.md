@@ -18,7 +18,7 @@ I live in Indonesia, Freshly graduated from college, and I love building stuff t
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C092%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C092%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -73,7 +73,7 @@ Linux                    1 hr 7 mins         ███████████�
 ```
 
 
- Last Updated on 16/08/2024 01:06:14 UTC
+ Last Updated on 17/08/2024 01:04:40 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
