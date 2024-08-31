@@ -28,6 +28,8 @@ I live in Indonesia, Freshly graduated from college, and I love building stuff t
 
 > 📦 177.5 kB Used in GitHub's Storage 
  > 
+> 🏆 253 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -76,7 +78,7 @@ Windows                  2 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 30/08/2024 01:09:36 UTC
+ Last Updated on 31/08/2024 01:09:15 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
