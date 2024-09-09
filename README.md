@@ -18,8 +18,6 @@ I live in Indonesia, Freshly graduated from college, and I love building stuff t
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C096%20hrs%2034%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-672.3%20thousand%20lines%20of%20code-blue)
@@ -36,44 +34,8 @@ I live in Indonesia, Freshly graduated from college, and I love building stuff t
  > 
 > 🔑 50 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                281 commits         ███████░░░░░░░░░░░░░░░░░░   29.12 % 
-🌆 Daytime                301 commits         ████████░░░░░░░░░░░░░░░░░   31.19 % 
-🌃 Evening                333 commits         █████████░░░░░░░░░░░░░░░░   34.51 % 
-🌙 Night                  50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Tuesday                  157 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Wednesday                145 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Thursday                 129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Friday                   112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Saturday                 175 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Sunday                   112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 08/09/2024 01:15:39 UTC
+ Last Updated on 09/09/2024 01:12:36 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
