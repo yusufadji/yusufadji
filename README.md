@@ -20,7 +20,7 @@ I live in Indonesia, Freshly graduated from college, and I love building stuff t
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C096%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-672.3%20thousand%20lines%20of%20code-blue)
 
@@ -73,7 +73,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 24/09/2024 01:14:08 UTC
+ Last Updated on 25/09/2024 01:15:11 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
