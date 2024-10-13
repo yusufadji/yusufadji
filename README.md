@@ -18,7 +18,7 @@ I live in Indonesia, Freshly graduated from college, and I love building stuff t
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C100%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C103%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -63,17 +63,19 @@ Sunday                   112 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    47 mins             █████████████████████████   100.00 % 
+Other                    47 mins             █████████████░░░░░░░░░░░░   50.07 % 
+Python                   47 mins             ████████████░░░░░░░░░░░░░   49.93 % 
 
 🔥 Editors: 
-VS Code                  47 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 35 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  47 mins             █████████████████████████   100.00 % 
+Windows                  47 mins             █████████████░░░░░░░░░░░░   50.07 % 
+Linux                    47 mins             ████████████░░░░░░░░░░░░░   49.93 % 
 ```
 
 
- Last Updated on 12/10/2024 01:12:07 UTC
+ Last Updated on 13/10/2024 01:18:33 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
