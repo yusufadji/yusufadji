@@ -63,21 +63,17 @@ Sunday                   116 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-XML                      1 hr 23 mins        ████████████████████░░░░░   80.62 % 
-Other                    17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-Prisma                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 43 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 40 mins        ████████████████████████░   97.05 % 
-Linux                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 06/11/2024 01:12:55 UTC
+ Last Updated on 07/11/2024 01:13:23 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
