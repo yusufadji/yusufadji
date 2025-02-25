@@ -18,7 +18,7 @@ I live in Indonesia, graduated from college, and I love building stuff that incr
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C335%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C337%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -26,9 +26,9 @@ I live in Indonesia, graduated from college, and I love building stuff that incr
 
 **🐱 My GitHub Data** 
 
-> 📦 184.6 kB Used in GitHub's Storage 
+> 📦 184.4 kB Used in GitHub's Storage 
  > 
-> 🏆 175 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -63,21 +63,21 @@ Sunday                   64 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               14 hrs 37 mins      █████████████████████░░░░   82.44 % 
-JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-Python                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-Prisma                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+TypeScript               17 hrs 3 mins       ██████████████████████░░░   88.78 % 
+JSON                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Prisma                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Git                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 44 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 12 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    17 hrs 44 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/02/2025 01:16:20 UTC
+ Last Updated on 25/02/2025 01:15:46 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
