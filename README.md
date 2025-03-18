@@ -18,7 +18,7 @@ I live in Indonesia, graduated from college, and I love building stuff that incr
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C352%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C353%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -28,7 +28,7 @@ I live in Indonesia, graduated from college, and I love building stuff that incr
 
 > 📦 184.6 kB Used in GitHub's Storage 
  > 
-> 🏆 217 Contributions in the Year 2025
+> 🏆 218 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -63,20 +63,20 @@ Sunday                   64 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               25 mins             █████████████░░░░░░░░░░░░   51.23 % 
-Other                    18 mins             █████████░░░░░░░░░░░░░░░░   36.65 % 
-Bash                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+TypeScript               43 mins             ████████████░░░░░░░░░░░░░   49.92 % 
+Other                    29 mins             ████████░░░░░░░░░░░░░░░░░   33.37 % 
+Bash                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 
 🔥 Editors: 
-VS Code                  50 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 27 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    50 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/03/2025 01:19:50 UTC
+ Last Updated on 18/03/2025 01:17:47 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
