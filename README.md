@@ -28,8 +28,6 @@ I live in Indonesia, graduated from college, and I love building stuff that incr
 
 > 📦 184.6 kB Used in GitHub's Storage 
  > 
-> 🏆 220 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -63,20 +61,17 @@ Sunday                   64 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               35 mins             ████████████████░░░░░░░░░   64.55 % 
-Other                    10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-Bash                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+TypeScript               4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  54 mins             █████████████████████████   100.00 % 
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    54 mins             █████████████████████████   100.00 % 
+Linux                    4 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/03/2025 01:20:34 UTC
+ Last Updated on 25/03/2025 01:19:27 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
