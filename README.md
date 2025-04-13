@@ -28,8 +28,6 @@ I live in Indonesia, graduated from college, and I love building stuff that incr
 
 > 📦 184.6 kB Used in GitHub's Storage 
  > 
-> 🏆 220 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -73,7 +71,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/04/2025 01:18:39 UTC
+ Last Updated on 13/04/2025 02:47:40 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
