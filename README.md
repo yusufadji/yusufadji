@@ -18,7 +18,7 @@ I live in Indonesia, graduated from college, and I love building stuff that incr
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C721%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C727%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -26,9 +26,9 @@ I live in Indonesia, graduated from college, and I love building stuff that incr
 
 **🐱 My GitHub Data** 
 
-> 📦 205.1 kB Used in GitHub's Storage 
+> 📦 205.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,039 Contributions in the Year 2026
+> 🏆 1,053 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -36,49 +36,8 @@ I live in Indonesia, graduated from college, and I love building stuff that incr
  > 
 > 🔑 72 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                154 commits         █████████░░░░░░░░░░░░░░░░   37.65 % 
-🌆 Daytime                107 commits         ███████░░░░░░░░░░░░░░░░░░   26.16 % 
-🌃 Evening                115 commits         ███████░░░░░░░░░░░░░░░░░░   28.12 % 
-🌙 Night                  33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   61 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Tuesday                  44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-Wednesday                47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Thursday                 59 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Friday                   55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Saturday                 76 commits          █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-Sunday                   67 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-TypeScript               10 hrs 30 mins      █████████████░░░░░░░░░░░░   50.23 % 
-MDX                      6 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   30.24 % 
-JSON                     2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Markdown                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-JSON with Comments       11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-
-🔥 Editors: 
-VS Code                  18 hrs 52 mins      ███████████████████████░░   90.28 % 
-Antigravity              2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-
-💻 Operating System: 
-Windows                  20 hrs 54 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 28/05/2026 04:17:46 UTC
+ Last Updated on 29/05/2026 04:20:11 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
