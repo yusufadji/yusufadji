@@ -18,7 +18,7 @@ I live in Indonesia, graduated from college, and I love building stuff that incr
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C736%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C741%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -26,9 +26,9 @@ I live in Indonesia, graduated from college, and I love building stuff that incr
 
 **🐱 My GitHub Data** 
 
-> 📦 205.4 kB Used in GitHub's Storage 
+> 📦 205.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,103 Contributions in the Year 2026
+> 🏆 1,120 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -77,7 +77,7 @@ Windows                  28 hrs 4 mins       ███████████�
 ```
 
 
- Last Updated on 01/06/2026 05:02:00 UTC
+ Last Updated on 02/06/2026 04:48:38 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
