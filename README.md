@@ -18,7 +18,7 @@ I live in Indonesia, graduated from college, and I love building stuff that incr
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C785%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C788%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -63,21 +63,21 @@ Sunday                   67 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               12 hrs 48 mins      █████████████░░░░░░░░░░░░   52.75 % 
-JSON                     5 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
-MDX                      3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Markdown                 1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-JavaScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+TypeScript               8 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   41.74 % 
+JSON                     6 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   33.14 % 
+MDX                      3 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+Markdown                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 17 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 38 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  24 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/06/2026 04:48:58 UTC
+ Last Updated on 13/06/2026 04:27:36 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
